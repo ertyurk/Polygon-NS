@@ -1,9 +1,9 @@
 # Berserk Name Service 
 ## It's like ENS but with Polygon :)
 
-Visit live demo [here](https://BNS.ertyur.com)
+Visit live demo [here](https://bns.ertyurk.com)
 
-![Berserk name service demo](https://github.com/ertyurk/Polygon-NS/tree/main/public/demo.gif)
+![Berserk name service demo](public/demo.gif)
 
 
 ### **Welcome 👋**
