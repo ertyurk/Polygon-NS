@@ -21,11 +21,10 @@ cp sample.env .env
 ```sh
 npx hardhat run scripts/run.js
 ```
-3. Setup your alchemy api url along with Metamask Polygon Mumbai testnet 
+3. Setup your alchemy api url along with Metamask private key
 4. Deploy to testnet
 ```sh
 npx hardhat run scripts/deploy.js --network mumbai
 ```
-5. Run `npm install` at the root of your directory
-6. Run `npm run start` to start the project
+5. Run Run `npm run start` to start the project
 
